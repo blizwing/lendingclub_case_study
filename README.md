@@ -4,14 +4,13 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
 
 - What is the background of your project?
 This project focuses on analyzing a loan dataset to identify the factors that contribute to loan defaults. The objective is to pinpoint key indicators that can assist lenders in assessing credit risk, making informed lending decisions, and gaining insights to reduce credit losses. The analysis examines various variables, including loan amounts, interest rates, borrower income, and credit history, to predict the likelihood of a borrower defaulting on a loan.
@@ -76,4 +75,4 @@ This analysis offers critical insights into the factors influencing loan default
 ## Acknowledgements
 
 ## Contact
-Created by [@blizwing, @pravingaikar] - feel free to contact me!
+Created by [@[blizwing](https://github.com/blizwing), @[pravingaikar](https://github.com/pravingaikar)] - feel free to contact me!
