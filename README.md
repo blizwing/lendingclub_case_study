@@ -13,12 +13,15 @@
 ## General Information
 
 - What is the background of your project?
+  
 This project focuses on analyzing a loan dataset to identify the factors that contribute to loan defaults. The objective is to pinpoint key indicators that can assist lenders in assessing credit risk, making informed lending decisions, and gaining insights to reduce credit losses. The analysis examines various variables, including loan amounts, interest rates, borrower income, and credit history, to predict the likelihood of a borrower defaulting on a loan.
 
 - What is the business probem that your project is trying to solve?
+  
 The project aims to tackle the issue of minimizing financial losses caused by loan defaults. By identifying high-risk borrowers and understanding the factors linked to defaults, lenders can devise strategies to manage risks and enhance the performance of their loan portfolios.
 
 - What is the dataset that is being used?
+
 The dataset used in this analysis includes information on thousands of loans, covering borrower demographics, loan characteristics, and repayment status. Key attributes in the dataset include:
   - **Loan Amount:** The principal amount borrowed.
   - **Interest Rate:** The annual interest rate applied to the loan.
